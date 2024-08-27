@@ -1,0 +1,10 @@
+rootProject.name = 'ironets'
+include ':react-native-radar'
+project(':react-native-radar').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-radar/android')
+include ':@react-native-community_blur'
+project(':@react-native-community_blur').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/blur/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app', ':react-native-code-push'
+project(':react-native-code-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-code-push/android/app')
+include ':app'
+

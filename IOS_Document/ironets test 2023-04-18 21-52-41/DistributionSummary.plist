@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ironets.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>9</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>839F8BBF452476F3C407BA664C6D866E6A2F2CAC</string>
+				<key>dateExpires</key>
+				<string>3/12/24</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>23.4.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>839F8BBF452476F3C407BA664C6D866E6A2F2CAC</string>
+						<key>dateExpires</key>
+						<string>3/12/24</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>MapboxCommon.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U93QEP8R8V</string>
+						<key>name</key>
+						<string>IWASOFT BILISIM HIZMETLERI TICARET LIMITED SIRKETI</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>23.4.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.0.1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>839F8BBF452476F3C407BA664C6D866E6A2F2CAC</string>
+						<key>dateExpires</key>
+						<string>3/12/24</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>MapboxCoreMaps.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U93QEP8R8V</string>
+						<key>name</key>
+						<string>IWASOFT BILISIM HIZMETLERI TICARET LIMITED SIRKETI</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>30</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>839F8BBF452476F3C407BA664C6D866E6A2F2CAC</string>
+						<key>dateExpires</key>
+						<string>3/12/24</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>MapboxMobileEvents.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U93QEP8R8V</string>
+						<key>name</key>
+						<string>IWASOFT BILISIM HIZMETLERI TICARET LIMITED SIRKETI</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.10</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>523350</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>839F8BBF452476F3C407BA664C6D866E6A2F2CAC</string>
+						<key>dateExpires</key>
+						<string>3/12/24</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>MapboxNavigationNative.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U93QEP8R8V</string>
+						<key>name</key>
+						<string>IWASOFT BILISIM HIZMETLERI TICARET LIMITED SIRKETI</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>130.0.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>U93QEP8R8V.com.app.rivalog</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:www.rivalog.com</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>U93QEP8R8V</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>ironets.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>70863cfc-7eec-46cb-b5db-3db0fed19c57</string>
+				<key>dateExpires</key>
+				<string>3/13/24</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.app.rivalog</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>U93QEP8R8V</string>
+				<key>name</key>
+				<string>IWASOFT BILISIM HIZMETLERI TICARET LIMITED SIRKETI</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>3.8</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "641555704078",
+    "project_id": "rivalog-86f1a",
+    "storage_bucket": "rivalog-86f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641555704078:android:25f0d8a52723ba6dd8cf5f",
+        "android_client_info": {
+          "package_name": "com.iwa.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641555704078-amoro0u7doho6pe0t50v1lk9m5rvgpts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iwa.logistics",
+            "certificate_hash": "3921df72e80a1307c82b9c16e4b63c2c44f5827f"
+          }
+        },
+        {
+          "client_id": "641555704078-9ds3a1agpke6vich9qovpknu1rk1p4m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mRS3Y7XGSuvATmoLGopOT21bTwZ8Qgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641555704078-9ds3a1agpke6vich9qovpknu1rk1p4m7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641555704078-ljmbi2t8l0lu70b7lcm9pbqqdeuifd5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.rivalog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

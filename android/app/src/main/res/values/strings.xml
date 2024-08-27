@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rivalog</string>
+        <string moduleConfig="true" name="CodePushDeploymentKey">KQOCSLepdZ4lDWjhebFxpJaZDwZJl4lSKVrIN</string>
+</resources>

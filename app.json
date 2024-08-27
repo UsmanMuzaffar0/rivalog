@@ -1,0 +1,9 @@
+{
+  "name": "ironets",
+  "displayName": "ironets",
+  "extra": {
+    "eas": {
+      "projectId": "901b48bd-4c2d-410a-aaec-50d93238e8a2"
+    }
+  }
+}

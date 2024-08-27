@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-curved-bottom-bar/src/CurvedBottomBar/components/BottomBarView/index.tsx b/node_modules/react-native-curved-bottom-bar/src/CurvedBottomBar/components/BottomBarView/index.tsx
+index 05f7a93..59131d6 100644
+--- a/node_modules/react-native-curved-bottom-bar/src/CurvedBottomBar/components/BottomBarView/index.tsx
++++ b/node_modules/react-native-curved-bottom-bar/src/CurvedBottomBar/components/BottomBarView/index.tsx
+@@ -288,7 +288,7 @@ const BottomBarComponent: (
+             const Component = e?.props?.component;
+ 
+             return (
+-              <Tab.Screen key={e?.props?.name} name={e?.props?.name}>
++              <Tab.Screen options={e?.props?.options} key={e?.props?.name} name={e?.props?.name}>
+                 {(props) => <Component {...props} />}
+               </Tab.Screen>
+             );

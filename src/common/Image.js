@@ -1,0 +1,22 @@
+const IMAGES = {
+  iconImage: require("../assets/images/icn_image.png"),
+  pngIcon: require("../assets/images/icn_type_png.png"),
+  jpgIcon: require("../assets/images/icn_type_jpg.png"),
+  pdfIcon: require("../assets/images/icn_type_pdf.png"),
+  attachmentIcon: require("../assets/images/icn_type_file.png"),
+  addDoc: require("../assets/images/icn_add_doc.png"),
+  approvedBorder: require("../assets/images/icn_approved_border.png"),
+  rejected: require("../assets/images/icn_rejected.png"),
+  approved: require("../assets/images/icn_approved.png"),
+  navArrow: require("../assets/images/icn_navigation.png"),
+  locationIcon: require("../assets/images/icn_location_placeholder.png"),
+  iconHomeReview: require("../assets/images/icn_home_pending.png"),
+  iconHomeApproved: require("../assets/images/icn_home_approved.png"),
+  iconHomeCancelled: require("../assets/images/icn_home_cancelled.png"),
+  iconHomeDelivered: require("../assets/images/icn_home_delivered.png"),
+  iconHomeDraft: require("../assets/images/icn_home_draft.png"),
+  iconHomeOnMoving: require("../assets/images/icn_home_onMoving.png"),
+  iconHomeAssignedToTransporter: require("../assets/images/icn_home_assignedToTransporter.png"),
+  iconHomeRejected: require("../assets/images/icn_home_rejected.png"),
+};
+export default IMAGES;

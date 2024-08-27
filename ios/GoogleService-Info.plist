@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641555704078-ljmbi2t8l0lu70b7lcm9pbqqdeuifd5k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641555704078-ljmbi2t8l0lu70b7lcm9pbqqdeuifd5k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>641555704078-amoro0u7doho6pe0t50v1lk9m5rvgpts.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfZprJjfZWh0kUG68pCYDM3HwU37wzmew</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641555704078</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.rivalog</string>
+	<key>PROJECT_ID</key>
+	<string>rivalog-86f1a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rivalog-86f1a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641555704078:ios:5a496942a060c11dd8cf5f</string>
+</dict>
+</plist>
